@@ -1,6 +1,6 @@
 # Welcome to EasyGrade
 
-## Warning! This project is currently under construction, and is not in its final stages as expected. Due to security reasons, this repository has been wiped and the issue is currently being resolved. Please look at my other repositories as projects. Here is a live website that my team and I have created in under 24 hours during the last hackathon. It runs on Flask and SQL Alchemy for back end, and HTML, JavaScript, and Bootstrap for front end. The website is called [Myce](http://myce.link) and you can find out everything about it on its [repository](https://github.com/Ishmaelk/Myce). (If that link doesn't work, use [this one](http://myce.link.s3-website-us-east-1.amazonaws.com/index.html). 
+## Warning! This project is currently under construction, and is not in its final stages as expected. Due to security reasons, this repository has been wiped and the issue is currently being resolved. Please look at my other repositories as projects. Here is a live website that my team and I have created in under 24 hours during the last hackathon. It runs on Flask and SQL Alchemy for back end, and HTML, JavaScript, and Bootstrap for front end. The website is called [Myce](http://myce.link) and you can find out everything about it on its [repository](https://github.com/Ishmaelk/Myce). (If that link doesn't work, use [this one](http://myce.link.s3-website-us-east-1.amazonaws.com/index.html).)  
 
 ## About EasyGrade
 
